@@ -1,4 +1,4 @@
-package CursoJava;
+package CursoJava.EstruturaRepetitiva;
 
 import java.util.Locale;
 import java.util.Scanner;
